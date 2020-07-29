@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Joe Flynn's Portfolio
 
-I'm glad you are here. I plan to talk about ...
+Please find some examples of my work below!
