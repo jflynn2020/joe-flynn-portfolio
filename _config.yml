@@ -1,7 +1,7 @@
 title: Joe Flynn's Data Analysis Portfolio
 author: Joe Flynn
 email: joeflynn2012@gmail.com
-theme: minima
+theme: jekyll-theme-cayman
 description: > # this means to ignore newlines until "baseurl:"
   Portfolio of data analysis projects utilizing Python, MySQL, and Tableau
 
