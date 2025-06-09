@@ -1,13 +1,5 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# Joe Flynn - Business Analyst Portfolio
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+Hi, I'm Joe!  I hold a Bachelor of Science in Mechanical Engineering from UC Berkeley and a Master of Science in Business Analytics from University of Nebraska - Lincoln.  Professionally I have experience as a Legal Project Manager for 6 years as well as 2 years as a Software Quality Triage Specialist in the Autonomous Vehicle industry.  I am excited to pair my technical background with my communications experience to uncover meaningful insight as a data scientist!
 
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+I have uploaded a few projects showcasing the skills that I learned during my Masters program utilizing various softwares and techniques.
